@@ -1,31 +1,31 @@
-Setup: Tooling
+**Setup: Tooling**
 
-Editor with CoffeeScript support
-Command line
-Setup live CoffeeScript REPL w/ file watcher (or emacs)
-git & github account
+1. Editor with CoffeeScript support
+2. Command line
+3. Setup live CoffeeScript REPL w/ file watcher (or emacs)
+4. git & github account
 
-Intro: Philosophy and Math
+**Intro: Philosophy and Math**
 
-History of data modelling
-Origins of computing
-Haskell Curry, Alonzo Church
-Algebra refresher
-Exercise: algebra problems
-The Lambda Calculus
-Exercise: lambda calculus problems
-Philosophical vs. Technological approach
-Nouns vs. verbs
-Exercise: writing stories with nouns and verbs
+1. History of data modelling
+2. Origins of computing
+3. Haskell Curry, Alonzo Church
+4. Algebra refresher
+  * Exercise: algebra problems
+5. The Lambda Calculus
+  * Exercise: lambda calculus problems
+6. Philosophical vs. Technological approach
+7. Nouns vs. verbs
+  * Exercise: writing stories with nouns and verbs
 
-Functional Programming with Javascript 
+**Functional Programming with Javascript **
 
-What is Functional Programming?
-What/why JavaScript? 
-What/why CoffeeScript?
-Functional idioms in JavaScript
+1. What is Functional Programming?
+2. What/why JavaScript? 
+3. What/why CoffeeScript?
+4. Functional idioms in JavaScript
 
-Software Paradigms: a code survey 
+**Software Paradigms: a code survey**
 
 CoffeeScript intro
 Exercise: build pure math functions in CoffeeScript and run on REPL
