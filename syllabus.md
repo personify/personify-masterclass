@@ -27,36 +27,35 @@
 
 **Software Paradigms: a code survey**
 
-CoffeeScript intro
-Exercise: build pure math functions in CoffeeScript and run on REPL
-Imperative vs. Declarative 
-Exercise: implement loops vs. recursion
-Exercise: implement our stories w/ imperative vs. declarative 
-OOP vs. Functional
-Exercise: implement stories we wrote w/ OOP vs. functional 
-Logic Programming
-Exercise: use logic programming somehow lol
+1. CoffeeScript intro
+  * Exercise: build pure math functions in CoffeeScript and run on REPL
+2. Imperative vs. Declarative 
+  * Exercise: implement loops vs. recursion
+  * Exercise: implement our stories w/ imperative vs. declarative 
+3. OOP vs. Functional
+  * Exercise: implement stories we wrote w/ OOP vs. functional 
+4. Logic Programming
+  * Exercise: use logic programming somehow lol
 
-
-The State of Functional Programming
+**The State of Functional Programming**
 	
-Pure vs. Impure: “Purity has it’s regrets”
-The problem with state
-Exercise: concurrency with code examples
-Immutability 
-Nouns vs. Verbs
-Atomism and Transactions
-Exercise: use git architecture + ?
-State management strategies	
+1. Pure vs. Impure: “Purity has it’s regrets”
+2. The problem with state
+  * Exercise: concurrency with code examples
+3. Immutability 
+4. Nouns vs. Verbs
+5. Atomism and Transactions 
+  * Exercise: use git architecture + ?
+6. State management strategies	
 
-The State of OOP
+**The State of OOP**
 
-The problem with OOP: “Yo dawg we heard you liked State”
-Nouns vs. Verbs
-Java is not OOP?
-Exercise: build impure I/O in CoffeeScript in an imperative style
+1. The problem with OOP: “Yo dawg we heard you liked State”
+2. Nouns vs. Verbs
+3. Java is not OOP?
+  * Exercise: build impure I/O in CoffeeScript in an imperative style
 
-What’s Good(tm) about Functional programming
+**What’s Good(tm) about Functional programming**
 
 Immutability!
 Functional Programming idioms: implement and discuss
